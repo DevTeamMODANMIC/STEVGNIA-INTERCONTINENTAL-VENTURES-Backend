@@ -68,7 +68,7 @@ if (!fs.existsSync('uploads')) {
 }
 
 adminRouter.get("/", async(req, res)=>{
-  const insertData = {
+  // const insertData = {
   //   email: "royalafricconsults@modanmic.com",
   //   password: "nsxk644michael123"
   // }

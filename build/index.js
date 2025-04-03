@@ -1,5 +1,5 @@
 
-const handeLocalhostLocation = 'https://olatunjijmbackend.onrender.com/api/' // `http://localhost:3001/api/`
+const handeLocalhostLocation = 'https://stevgnia-intercontinental-ventures.onrender.com/api/' // `http://localhost:3001/api/`
 
 
 const handelClickDisplayResponsiveMenue = () =>{

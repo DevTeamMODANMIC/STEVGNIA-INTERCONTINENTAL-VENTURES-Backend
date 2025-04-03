@@ -68,8 +68,8 @@ if (!fs.existsSync('uploads')) {
 }
 
 adminRouter.get("/", async(req, res)=>{
-  // const insertData = {
-  //   email: "olatunjiJm@modanmic.com",
+  const insertData = {
+  //   email: "royalafricconsults@modanmic.com",
   //   password: "nsxk644michael123"
   // }
   // const setNewData = new adminModel(insertData)
